@@ -10,7 +10,7 @@ looking. You've came to the right place.
 -  You should be using GitLab CI.
 -  A Discord Server where notifications will be posted.
 -  5 minutes
--  A cup of coffee ☕
+-  A cup of tea ☕
 
 ## Guide
 1.  Create a webhook in your Discord Server ([Guide](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks)).
